@@ -2,45 +2,45 @@
 /* Nombre Práctica: Hola Mundo */
 /* Autor/a: Manuel Antonio Lopez Martinez */
 /* Fecha de elaboración: 07/02/2023 */
-
 body{
+    background-color: #ffffff;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .mx{
-    top: 30%;
-    right: 50%;
-    font-size: 200px;
+    top: 31%;
+    right: 45%;
+    font-size: 199px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#001219;
 }
 .us{
-    top: 10%;
+    top: 12%;
     left: 45%;
     font-size: 100px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#005f73;
 }
 .jp{
-    bottom: 20%;
+    bottom: 22%;
     right: 10%;
     font-size: 180px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#0a9396;
 }
 .it{
-    top: 28%;
-    right: 0%;
+    top: 40%;
+    right: 2%;
     font-size: 85px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
-    color:#94d2bd;
+    
+    color:#457b9d;
 }
 .hw{
     bottom: 10%;
@@ -48,7 +48,7 @@ body{
     font-size: 75px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#d00000;
 }
 .ru{
@@ -57,34 +57,34 @@ body{
     font-size: 120px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#ee9b00 ;
 }
 .ko{
-    top: 0%;
+    top: 2%;
     right: 10%;
     font-size: 100px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#ca6702;
 }
 .po{
-    bottom: 60%;
+    bottom: 55%;
     right: 10%;
     font-size: 70px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#ffba08;
 }
 .hi{
-    bottom: 5%;
+    bottom: 10%;
     right: 10%;
     font-size: 120px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#bb3e03;
 }
 .he{
@@ -93,15 +93,24 @@ body{
     font-size: 150px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#ae2012 ;
 }
 .sw{
-    bottom: 48%;
-    right: 65%;
+    bottom: 47%;
+    right: 66%;
     font-size: 90px;
     position: absolute;
     z-index: 25;
-    -webkit-text-stroke: 1px white;
+    
     color:#9b2226;
+}
+.tn{
+    top: 32%;
+    right: 55%;
+    font-size: 100px;
+    position: absolute;
+    z-index: 25;
+    
+    color:#ffba08;
 }
